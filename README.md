@@ -61,9 +61,6 @@ Modelo treinado
         │
         ▼
 Aplicação de inferência
-        │
-        ├── Webcam
-        └── Vídeo
 ```
 
 ## Tecnologias
@@ -83,10 +80,6 @@ Aplicação de inferência
 ├── LICENSE
 ├── notebooks/
 │   └── vigilante_yolo_inference.ipynb
-├── models/
-│   └── README.md
-└── assets/
-    └── README.md
 ```
 
 ## Execução
@@ -126,10 +119,3 @@ Entre as possibilidades de evolução do projeto estão:
 ## Contexto acadêmico
 
 Projeto desenvolvido para a disciplina de Inteligência Computacional como uma prova de conceito de aplicação de modelos de visão computacional.
-
-O projeto foi desenvolvido em conjunto por dois integrantes, sem uma divisão formal de responsabilidades.
-
-## Autores
-
-**Jefferson Dias Ribeiro**
-Projeto acadêmico desenvolvido em conjunto com outro integrante da disciplina.
