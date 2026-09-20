@@ -77,7 +77,7 @@ Aplicação de inferência
 ```text
 .
 ├── notebooks/
-    └── vigilante_yolo_inference.ipynb
+│   └── vigilante_yolo_inference.ipynb
 ├── README.md
 ```
 
