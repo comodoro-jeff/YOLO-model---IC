@@ -2,7 +2,7 @@
 
 Prova de conceito desenvolvida para a disciplina de Inteligência Computacional com o objetivo de explorar a aplicação de visão computacional na detecção da posição de pessoas.
 
-## Sobre o projeto
+## Sobre o Projeto
 
 O projeto consiste no desenvolvimento de uma prova de conceito utilizando um modelo YOLO para detectar pessoas em três diferentes posições:
 
@@ -72,7 +72,7 @@ Aplicação de inferência
 * NumPy
 * Jupyter Notebook
 
-## Estrutura do projeto
+## Estrutura do Projeto
 
 ```text
 .
@@ -101,7 +101,7 @@ O projeto não possui, nesta versão, métricas de avaliação preservadas que p
 
 Além disso, o dataset original, o modelo treinado e os vídeos utilizados durante os testes não podem ser redistribuídos.
 
-## Possíveis melhorias
+## Possíveis Melhorias
 
 Entre as possibilidades de evolução do projeto estão:
 
